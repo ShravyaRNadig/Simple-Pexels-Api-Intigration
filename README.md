@@ -1,8 +1,8 @@
 # Simple-Pexels-Api-Intigration
 Basically this is Image search where we can search images from <b>PEXELS</b> [Link of Pexels.Api] ("https://www.pexels.com/api/") <br>
-Create an account there...<br>
+Create an account there...<br><br>
 ![image](https://user-images.githubusercontent.com/47104182/122673503-59909000-d1ee-11eb-820b-adaa6318d553.png)
-And click on <b>YOUR API KEY</b> it will generate a hexadecimal code which is your API meanwhile you need to add the description there for what your using it. Next cope that code and click on Read Documentation of the API ("https://www.pexels.com/api/documentation/").
+And click on <b>YOUR API KEY</b> it will generate a hexadecimal code which is your API meanwhile you need to add the description there for what your using it. Next cope that code and click on Read Documentation of the API ("https://www.pexels.com/api/documentation/").<br><br>
 ![image](https://user-images.githubusercontent.com/47104182/122673527-7af17c00-d1ee-11eb-9aec-d4bb4640f0ed.png)
 ## In this Proj
 You need to go to search for photos As it is image search app ("https://www.pexels.com/api/documentation/#photos-search")<br>
